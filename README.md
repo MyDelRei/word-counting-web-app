@@ -6,6 +6,9 @@
 open git bash and 
 git clone //Url// 
 
+Important Note : only .txt file will work in here
+
+
 Tech use : ASP.net MVC 
 
 
