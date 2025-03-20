@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|c:\\users\\leangpanhasaovdy\\source\\repos\\wordcounting\\wordcounting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|solutionrelative:wordcounting\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|c:\\users\\leangpanhasaovdy\\source\\repos\\wordcounting\\wordcounting\\wwwroot\\js\\home\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|solutionrelative:wordcounting\\wwwroot\\js\\home\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|c:\\users\\leangpanhasaovdy\\source\\repos\\wordcounting\\wordcounting\\models\\uploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|solutionrelative:wordcounting\\models\\uploadmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|c:\\users\\leangpanhasaovdy\\source\\repos\\wordcounting\\wordcounting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|solutionrelative:wordcounting\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|c:\\users\\leangpanhasaovdy\\source\\repos\\wordcounting\\wordcounting\\wwwroot\\uploads\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|solutionrelative:wordcounting\\wwwroot\\uploads\\test.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|c:\\users\\leangpanhasaovdy\\source\\repos\\wordcounting\\wordcounting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94AA6D35-1389-4E82-B66E-957A3D2C9765}|WordCounting\\WordCounting.csproj|solutionrelative:wordcounting\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WordCounting\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WordCounting\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T02:29:03.192Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WordCounting\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WordCounting\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T05:30:19.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test.txt",
+              "DocumentMoniker": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\wwwroot\\uploads\\test.txt",
+              "RelativeDocumentMoniker": "WordCounting\\wwwroot\\uploads\\test.txt",
+              "ToolTip": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\wwwroot\\uploads\\test.txt",
+              "RelativeToolTip": "WordCounting\\wwwroot\\uploads\\test.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-13T05:19:35.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.js",
+              "DocumentMoniker": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\wwwroot\\js\\Home\\Home.js",
+              "RelativeDocumentMoniker": "WordCounting\\wwwroot\\js\\Home\\Home.js",
+              "ToolTip": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\wwwroot\\js\\Home\\Home.js",
+              "RelativeToolTip": "WordCounting\\wwwroot\\js\\Home\\Home.js",
+              "ViewState": "AgIAACkAAABAZ2ZmZuYswDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-13T04:40:26.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadModel.cs",
+              "DocumentMoniker": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Models\\UploadModel.cs",
+              "RelativeDocumentMoniker": "WordCounting\\Models\\UploadModel.cs",
+              "ToolTip": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Models\\UploadModel.cs",
+              "RelativeToolTip": "WordCounting\\Models\\UploadModel.cs",
+              "ViewState": "AgIAAAQAAADo/////z8lwAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:11:44.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WordCounting\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\leangpanhasaovdy\\source\\repos\\WordCounting\\WordCounting\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WordCounting\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAACACQAAAIAUwDgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T02:06:17.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿<div class="bg-base-100 w-full h-full shadow-xl rounded-xl flex">
+    <div class="w-1/2 p-8 flex justify-center items-center">
+        <div>
+            <p class="text-9xl text-center text-indigo-700"><i class="fa-regular fa-file-lines"></i></p>
+            <p class="py-4 text-4xl text-indigo-600 font-bold text-center">Upload file here</p>
+            <div class="relative flex justify-center items-center w-full max-w-xs">
+                <input type="file"
+                       class="file-input file-input-bordered file-input-primary w-full max-w-xs" />
+
+            </div>
+
+        </div>
+    </div>
+    <div class="w-1/2 h-full p-8">
+        <label class="form-control w-full h-full">
+            <div class="label">
+                <span class="label-text">Your File</span>
+                <span id="wordCount" class="label-text-alt">Word: </span>
+            </div>
+            <textarea id="txtBox" class="textarea textarea-bordered w-full h-full " placeholder="Type here or choose file"></textarea>
+            <div class="pt-8">
+                <button id="btn-count" class="btn bg-indigo-600 text-white ">Count</button>
+            </div>
+            
+        </label> 
+    </div>
+
+</div>
+<script src="/lib/jquery/dist/jquery.min.js"></script>
+<script src="/lib/jquery/dist/jquery.js"></script>
+<script src="~/js/Home/Home.js"></script>
